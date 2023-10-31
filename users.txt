@@ -1,0 +1,3 @@
+{"username":"admin","email":"admin@gmail.com","password":"$2y$10$9To2UC6dI1x.EJ0wgTJVcOc4n1tCf.\/w\/Mv4sbVGmZR7bcg9GovSe","role":"admin"}
+{"username":"manager","email":"manager@gmail.com","password":"$2y$10$musYBpsjwReWL52DNmANC.xa\/.ED9uwZY.xkFk4DRYuZ5QNaIKWzm","role":"manager"}
+{"username":"moshiur","email":"moshiur@gmail.com","password":"$2y$10$h\/XGLJdWnhXyGS7c744ks.vRLhDS4WioiZ87kIbSUTWq5C6vm.7LC","role":"user"}
